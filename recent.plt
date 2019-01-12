@@ -1,0 +1,1 @@
+/home/yohan/development/gnuplot/recent.plt
